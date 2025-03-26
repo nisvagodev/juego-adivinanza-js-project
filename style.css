@@ -1,0 +1,46 @@
+body {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f8f8ec;
+}
+
+h1 {
+  background: linear-gradient(360deg, #066699, #aedd2b);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 4em;
+}
+
+h3 {
+  color: #02416d;
+}
+
+p {
+  color: #02416d;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 12px;
+  background-color: #aedd2b;
+  color: #02416d;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 24px;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: #98c51e;
+}
+
+#message {
+  color: #02416d;
+  font-size: 18px;
+  margin-top: 20px;
+}
