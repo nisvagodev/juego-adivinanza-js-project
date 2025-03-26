@@ -1,8 +1,8 @@
 # Proyecto de JavaScript: Juego de Adivinanza
 
-Link para ver el resultado: [JUEGO ADIVINANZA TRABAJO TERMINADO]()
+Link para ver el resultado: [JUEGO ADIVINANZA TRABAJO TERMINADO](https://juego-adivinanza-js-project.netlify.app/)
 
-![Captura de pantalla del proyecto de JavaScript]()
+![Captura de pantalla del proyecto de JavaScript](https://github.com/nisvagodev/juego-adivinanza-js-project/blob/main/assets/img/captura-de-pantalla.PNG?raw=true)
 
 Este repositorio contiene el código de un juego de adivinanza implementado en Javascript. El juego consiste en adivinar un número aleatorio generado por el programa en un rango del 1 al 100.
 
